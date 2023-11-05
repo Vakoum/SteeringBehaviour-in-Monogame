@@ -108,11 +108,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Filip\\Desktop\\Games\\Monogame\\TestMovement\\TestMovement\\TestMovement.csproj",
+      "projectUniqueName": "C:\\Users\\Filip\\Desktop\\Games\\Monogame\\SteeringBehaviour-in-Monogame\\TestMovement\\SteeringBehaviour-in-Monogame\\TestMovement\\TestMovement.csproj",
       "projectName": "TestMovement",
-      "projectPath": "C:\\Users\\Filip\\Desktop\\Games\\Monogame\\TestMovement\\TestMovement\\TestMovement.csproj",
+      "projectPath": "C:\\Users\\Filip\\Desktop\\Games\\Monogame\\SteeringBehaviour-in-Monogame\\TestMovement\\SteeringBehaviour-in-Monogame\\TestMovement\\TestMovement.csproj",
       "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Filip\\Desktop\\Games\\Monogame\\TestMovement\\TestMovement\\obj\\",
+      "outputPath": "C:\\Users\\Filip\\Desktop\\Games\\Monogame\\SteeringBehaviour-in-Monogame\\TestMovement\\SteeringBehaviour-in-Monogame\\TestMovement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TestMovement
-build_property.ProjectDir = C:\Users\Filip\Desktop\Games\Monogame\TestMovement\TestMovement\
+build_property.ProjectDir = C:\Users\Filip\Desktop\Games\Monogame\SteeringBehaviour-in-Monogame\TestMovement\SteeringBehaviour-in-Monogame\TestMovement\

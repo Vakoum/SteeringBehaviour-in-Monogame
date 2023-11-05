@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/Filip/Desktop/Games/Monogame/TestMovement/TestMovement/Content/../../../whiteDot.png</SourceFile>
+  <SourceFile>C:/Users/Filip/Desktop/Games/Monogame/SteeringBehaviour-in-Monogame/TestMovement/SteeringBehaviour-in-Monogame/TestMovement/Content/whiteDot.png</SourceFile>
   <SourceTime>2023-11-03T09:39:01.505007+09:00</SourceTime>
-  <DestFile>C:/Users/Filip/Desktop/Games/Monogame/TestMovement/TestMovement/Content/bin/DesktopGL/Content/whiteDot.xnb</DestFile>
-  <DestTime>2023-11-03T09:59:12.3905448+09:00</DestTime>
+  <DestFile>C:/Users/Filip/Desktop/Games/Monogame/SteeringBehaviour-in-Monogame/TestMovement/SteeringBehaviour-in-Monogame/TestMovement/Content/bin/DesktopGL/Content/whiteDot.xnb</DestFile>
+  <DestTime>2023-11-05T20:20:59.9912938+09:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T20:44:56+09:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

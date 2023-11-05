@@ -4,11 +4,11 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/Filip/Desktop/Games/Monogame/TestMovement/TestMovement/Content/../../../whiteDot.png</File>
-    <File>C:/Users/Filip/Desktop/Games/Monogame/TestMovement/TestMovement/Content/../Aseprites/Boid.png</File>
+    <File>C:/Users/Filip/Desktop/Games/Monogame/SteeringBehaviour-in-Monogame/TestMovement/SteeringBehaviour-in-Monogame/TestMovement/Content/../Aseprites/Boid.png</File>
+    <File>C:/Users/Filip/Desktop/Games/Monogame/SteeringBehaviour-in-Monogame/TestMovement/SteeringBehaviour-in-Monogame/TestMovement/Content/whiteDot.png</File>
   </SourceFiles>
   <DestFiles>
-    <File>whiteDot.png</File>
     <File>Boid.png</File>
+    <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>
